@@ -1,5 +1,4 @@
 import { Button } from "@/components/ui/button"
-import Image from "next/image"
 import { CreativeImage, CreativeText } from "../(assets)/icons/icons"
 
 export default function GiftLanding() {
